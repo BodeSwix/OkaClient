@@ -1,7 +1,7 @@
 {
-    "name": "OkaClient-Launcher",
-    "preductname": "OkaClient Launcher",
-    "version": "1.0.1",
+    "name": "OkaClient",
+    "preductname": "Oka Client",
+    "version": "1.0.2",
     "description": "Launcher Minecraft PvP Optimisé",
     "main": "src/app.js",
     "author": {
